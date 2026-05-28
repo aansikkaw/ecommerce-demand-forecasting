@@ -27,8 +27,8 @@ The EDA phase uncovered critical business dynamics that dictated the ML feature 
 
 ## 🚀 Model Evaluation & Impact
 
-* **Baseline Linear Regression MAE:** 120.21 units
-* **Random Forest Regressor MAE:** 89.38 units
+* **Baseline Linear Regression MAE:** 40.900 units
+* **Random Forest Regressor MAE:** 41.550 units
 * **Optimized XGBoost MAE:** 23.78 units
 
 **Business Translation:** When procurement orders inventory for the upcoming month, the XGBoost engine will, on average, accurately predict the necessary stock within a ~24 unit variance. This allows the business to safely lower its safety stock thresholds, freeing up liquidity while maintaining high fulfillment rates.
