@@ -36,7 +36,7 @@ The EDA phase uncovered critical business dynamics that dictated the ML feature 
 ## 💻 How to Run
 
 ```bash
-git clone [https://github.com/your-username/ecommerce-demand-forecasting.git](https://github.com/your-username/ecommerce-demand-forecasting.git)
+git clone [https://github.com/aansikkaw/ecommerce-demand-forecasting.git](https://github.com/your-username/ecommerce-demand-forecasting.git)
 cd ecommerce-demand-forecasting
 pip install -r requirements.txt
 jupyter notebook E_Commerce_Demand_Prediction.ipynb
